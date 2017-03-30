@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name q5v-footprints)(type KiCad)(uri "$(KIPRJMOD)/lib/q5v-footprints.pretty")(options "")(descr ""))
+)
